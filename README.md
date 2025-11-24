@@ -1,7 +1,7 @@
 # MobileRobot-Openloopcontrol
-# NAME: SANKAR S
-# DEPT: B.E/CSE
-# REG NO: 212224040291
+# NAME: B Harshala Reddy
+# DEPT: B.E CSE
+# REG NO: 212224040050
 ## Aim:
 
 To develop a python control code to move the mobilerobot along the predefined path.
@@ -97,10 +97,6 @@ if _name_ == '_main_':
         (0.4,0,0),
         (0,0,10),
         (0.4,0,0),
-
-
-
-
     ]
 
     for (x, y, z) in sequence:
@@ -121,28 +117,12 @@ if _name_ == '_main_':
 
 ![new](https://github.com/user-attachments/assets/05eb2416-287a-49a3-be60-cbe3271a262e)
 
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## MobileRobot Movement Video:
 
-https://youtu.be/Y1nH6TTyQHE
-
-<br/>
-<br/>
-<br/>
-<br/>
+https://youtu.be/hciCJp1ADlU?si=WU_N21qmroxDc_ey
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-
-
-<br/>
-<br/>
 
 ```
 Mobile Robotics Laboratory
